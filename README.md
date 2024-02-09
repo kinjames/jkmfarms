@@ -1,8 +1,4 @@
-Certainly! Here is the README file in code format:
-
-```markdown
-```
-# Farm Website README
+#JKMFARMS
 
 ## Introduction
 This repository contains the source code and assets for the website of [Your Farm Name]. The website is designed to showcase our farm, products, and connect with our customers.
