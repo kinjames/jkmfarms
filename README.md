@@ -3,18 +3,7 @@
 ## Introduction
 This repository contains the source code and assets for the website of [Your Farm Name]. The website is designed to showcase our farm, products, and connect with our customers.
 
-## Getting Started
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/farm-website.git
-   ```
 
-2. Navigate to the project directory.
-   ```bash
-   cd farm-website
-   ```
-
-3. Open the `index.html` file in your preferred web browser to preview the website locally.
 
 ## Structure
 - **index.html:** Home page of the website.
