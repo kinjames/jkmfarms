@@ -6,9 +6,9 @@ This repository contains the source code and assets for the website of [Your Far
 
 
 ## Structure
-- **index.html:** Home page of the website.
+- **home page:** Home page of the website.
 - **about page:** Information about the farm and its history.
-- **products.html:** Details about the crops or livestock we produce.
+- **products page:** Details about the crops or livestock we produce.
 - **practices.html:** Our farming methods, certifications, and practices.
 - **blog.html:** Regular updates, tips, and farm-related articles.
 - **contact.html:** Contact information and a form for inquiries.
