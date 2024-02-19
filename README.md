@@ -9,7 +9,7 @@ This repository contains the source code and assets for the website of [Your Far
 - **home page:** Home page of the website.
 - **about page:** Information about the farm and its history.
 - **products page:** Details about the crops or livestock we produce.
-- **practices.html:** Our farming methods, certifications, and practices.
+- **practices page:** Our farming methods, certifications, and practices.
 - **blog.html:** Regular updates, tips, and farm-related articles.
 - **contact.html:** Contact information and a form for inquiries.
 - **gallery.html:** Photo and video gallery showcasing our farm.
