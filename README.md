@@ -22,8 +22,6 @@ Feel free to customize the content in each HTML file to better suit your farm's 
 
 ## Deployment
 
-## Support
-
 
 We hope you enjoy using and sharing our farm website!
 
