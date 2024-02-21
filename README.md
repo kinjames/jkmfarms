@@ -20,7 +20,6 @@ This repository contains the source code and assets for the website of [Your Far
 ## Customization
 Feel free to customize the content in each HTML file to better suit your farm's specific details. Update images in the 'img' directory with your own high-quality pictures.
 
-## Deployment
 
 
 We hope you enjoy using and sharing our farm website!
