@@ -21,7 +21,6 @@ This repository contains the source code and assets for the website of [Your Far
 Feel free to customize the content in each HTML file to better suit your farm's specific details. Update images in the 'img' directory with your own high-quality pictures.
 
 ## Deployment
-Once you're satisfied with the changes, deploy the website on your preferred hosting platform.
 
 ## Support
 If you encounter any issues or have questions, feel free to contact us at [your-email@example.com].
