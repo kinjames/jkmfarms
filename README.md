@@ -23,7 +23,7 @@ Feel free to customize the content in each HTML file to better suit your farm's 
 ## Deployment
 
 ## Support
-If you encounter any issues or have questions, feel free to contact us at [your-email@example.com].
+
 
 We hope you enjoy using and sharing our farm website!
 
