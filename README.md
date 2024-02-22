@@ -17,10 +17,4 @@ This repository contains the source code and assets for the website of [Your Far
 - **faqs page:** Frequently asked questions about our farm and products.
 - **events page:** Information about upcoming farm events or workshops.
 
-## Customization
-Feel free to customize the content in each HTML file to better suit your farm's specific details. Update images in the 'img' directory with your own high-quality pictures.
-
-
-
-We hope you enjoy using and sharing our farm website!
 
