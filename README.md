@@ -1,7 +1,7 @@
 # JKMFARMS
 
 ## Introduction
-This repository contains the source code and assets for the website of [Your Farm Name]. The website is designed to showcase our farm, products, and connect with our customers.
+This repository contains the source code and assets for the website of [JKMFarms]. The website is designed to showcase our farm, products, and connect with our customers.
 
 
 
