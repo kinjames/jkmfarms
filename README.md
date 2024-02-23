@@ -14,3 +14,5 @@ Our farm website serves as a digital hub for our agricultural business. We aim t
 - **Contact Us**: Offers various means for visitors to get in touch with us, including a contact form and our physical address.
 - **Blog/News Section**: Shares updates, stories, and insights about our farm, products, and industry-related topics.
 - **Events**: Highlights upcoming farm events, such as farmer's markets, workshops, and tours.
+
+## Screenshots
