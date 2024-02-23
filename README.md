@@ -1,4 +1,4 @@
-# Farm Website
+# JKMFARMS
 
 Welcome to our farm website! This repository contains the code and assets for our online platform where users can learn about our farm, explore our products, and get in touch with us.
 
